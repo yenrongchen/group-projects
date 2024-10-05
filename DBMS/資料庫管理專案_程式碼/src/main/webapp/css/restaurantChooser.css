@@ -1,0 +1,205 @@
+
+*{
+	font-family:微軟正黑體;  
+}
+
+body{
+	background-color: white;
+}
+
+#account, #password, #fullname, #comfirm_password, #username2, #password2, #verification{
+	width: 200px;
+	height: 20px;
+	margin: 10px;
+	color: #000000;
+	text-align: center;
+}
+
+t1 /*不置中的說明文字*/{
+    size: 500px;
+    margin: 20px;
+    color:  black;
+    text-align: left;
+}
+
+h3{
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+h5{
+	margin: 20px;
+	color: #a3a2a3;
+	font-size: 14px;
+}
+
+h5:hover{
+	color: black;
+}
+
+#container1, #container2, #container3, #container4, #container5, #container6, #container7, #container8{
+	display:flex;/*左右並排*/
+	margin: 50%;
+	padding: 10px;
+	width: 800px;
+	height: 450px;
+	background-color: white;
+	border-radius: 5px;
+	border-top: 10px solid #dfc334;
+	box-shadow: 0 0px 70px rgba(0, 0, 0, 0.1);
+
+/*定位對齊*/
+	position:relative;   
+	margin: auto;
+	top: 50px;
+	text-align:center;
+	display: flex;
+	justify-content: center;   
+}
+
+.system_name{
+/*定位對齊*/
+	position:relative;   
+	margin: auto;
+	bottom: -50px;
+	text-align:center;
+
+}
+
+.submit{
+	color: rgb(0, 0, 0);  
+	background: #e6e270;
+	width: 200px;
+	height: 30px;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 5px;
+	border: 0px;
+}
+
+.submit:hover{
+	background: #dbb237;
+}
+
+.title{
+	text-align: center;
+	color: #0b0b0b;
+	margin: -200px 0px 0px 0px;
+}
+
+input{
+	padding: 10px;
+	border: none; 
+	border:solid 1px #ccc;
+	border-radius: 5px;
+}
+
+/*search bar*/
+* {
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #efe9e7;
+  }
+  a {
+    text-decoration: none;
+    color: #3d1101;
+  }
+  .wrap {
+    max-width: 960px;
+    margin: 20px auto 0 auto;
+    height: auto;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    background-color:  white;
+  }
+  a {
+    text-decoration: none;
+    color: #3d1101;
+  }
+  .wrap {
+    max-width: 960px;
+    margin: 20px auto 0 auto;
+    height: auto;
+  }
+  .search {
+    position: relative;
+    width: 80%;
+    float: left;
+  }
+  .search-bar {
+    width: 100%;
+    height: 32px;
+    font-size: 20px;
+    border: 3px solid #3d1101;
+    background-color: #ffffff;
+  }
+  .search-btn {
+    width: 36px;
+    height: 32px;
+    background-color: #3d1101;
+    color: #efe9e7;
+    outline: none;
+    border: 2px solid #3d1101;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .search-cart li {
+    float: left;
+    margin-left: 17px;
+    padding-top: 5px 0;
+    line-height: 32px;
+  }
+  .search-cart li a {
+    font-size: 16px;
+  }
+  
+  .pay {
+    padding-right: 10px;
+    border-right: 1px solid #3d1101;
+  }
+  
+  .search {
+    position: relative;
+    width: 80%;
+    float: left;
+  }
+  .search-bar {
+    width: 60%;
+    height: 32px;
+    font-size: 20px;
+    border: 3px solid #3d1101;
+    background-color: #efe9e7;
+  }
+  .search-btn {
+    width: 36px;
+    height: 32px;
+    background-color: #3d1101;
+    color: #efe9e7;
+    outline: none;
+    border: 2px solid #3d1101;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .search-cart li {
+    float: left;
+    margin-left: 17px;
+    padding-top: 5px 0;
+    line-height: 32px;
+  }
+  .search-cart li a {
+    font-size: 16px;
+  }
+  
+  .pay {
+    padding-right: 10px;
+    border-right: 1px solid #3d1101;
+  }
