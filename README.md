@@ -17,10 +17,10 @@
 
 * 餐廳推薦器 ( 資料庫管理課程 / Database Management System ) [ 小組 ]
   * 概述：這是一個具有豐富功能的網頁，它能提供可選條件的客製化餐廳推薦、撰寫與查看餐廳評論、查看完整餐廳資訊、收藏喜愛的餐廳、轉盤隨機推薦餐廳，以及使用者登入/註冊系統
-  * 專案使用到的程式語言：Java、MySQL、HTML、CSS、Javascript
+  * 專案使用到的程式語言：Java、MySQL、HTML、CSS、JavaScript
   * 負責部分：後端功能程式撰寫、創建及管理資料庫、後端與資料庫的互動、微調使用者介面
   * 我使用的程式語言：Java、MySQL、HTML、CSS
-  * 重要收穫：更全面、深入的使用 SQL 語法、如何使用 HTML、CSS 與 Javascript 做出精緻的 UI
+  * 重要收穫：更全面、深入的使用 SQL 語法、如何使用 HTML、CSS 做出精緻的 UI
 
 * 選課小幫手 ( 財務軟體應用課程 / Financial Software Application ) [ 小組 ]
   * 概述：一個運行於Excel上的系統，能查詢課程、把課程加入收藏清單、推薦合適課程與顯示當前課表
@@ -52,9 +52,9 @@
 
 * 資管系畢業專題 - Loglytics 資安樂解析 ( 資訊系統專案設計課程 / MIS Project ) [ 小組 ]
   * 概述：【 Loglytics 資安樂解析 】是一個以大型語言模型為基礎，建構出的資訊安全相關之系統，它能夠對不同的攻擊指令進行分類，並且描述該攻擊類別的性質、影響範圍、提點緩解或根絕的方式，還能幫忙生成長篇資安文章的重點摘要，以及精確、專業性的回答任何關於資訊安全的問題
-  * 專案使用到的程式語言：Python、HTML、CSS、Javascript
+  * 專案使用到的程式語言：Python、HTML、CSS、JavaScript
   * 負責部分：語言模型選擇、微調分類模型、部分前端程式碼、部分使用者介面設計
-  * 我使用的程式語言：Python、HTML、CSS
+  * 我使用的程式語言：Python、HTML、CSS、JavaScript
   * 重要收穫：瞭解大語言模型的原理、多樣特性等性質，也學習到語言模型和資安互相結合的應用方式、更深入認識語言模型的微調以及相關技術、學會以 Django 框架實作前端介面
 
 * 捷運計算系統 ( 程式設計一課程 / Object Oriented Programming-1 ) [ 小組 ]
