@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CanTake
+  - CanDiscard
+  - CanBoth
+  - Enemy
+  - FoodBullet
+  - FoodSoldier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2004652465
+    locked: 0
+  - name: Player
+    uniqueID: 1770630191
+    locked: 0
+  - name: Ingredient
+    uniqueID: 3855695265
+    locked: 0
+  - name: Food
+    uniqueID: 2034546017
+    locked: 0
+  - name: Dish
+    uniqueID: 4230875945
+    locked: 0
+  - name: DishTop
+    uniqueID: 1942659285
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2044660205
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 1414837795
+    locked: 0
+  - name: Zombie
+    uniqueID: 3342225949
+    locked: 0
+  - name: Part
+    uniqueID: 2797117863
+    locked: 0
